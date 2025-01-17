@@ -1,8 +1,8 @@
-::deep .sticky-col {
-  position: sticky;
-  top: 100px;
-  z-index: 10;
-}
+/* ::deep .sticky-col { */
+/*   position: sticky; */
+/*   top: 100px; */
+/*   z-index: 10; */
+/* } */
 
 .fa-pencil::before {
   font-size: 17px;
